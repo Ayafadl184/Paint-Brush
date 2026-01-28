@@ -5,7 +5,7 @@
 - 🧹 Clear the canvas  
 - 💾 Save your artwork  
 - 🎯 Simple and user-friendly interface
-- 
+  
 ---
 ## 💻 Technologies Used
 - Java ☕  
